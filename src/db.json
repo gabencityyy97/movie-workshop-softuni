@@ -27,9 +27,19 @@
       "director": "Corey Yuen",
       "year": "2006",
       "imageUrl": "https://th.bing.com/th/id/R.cef6f1dd0325412918ff961646aa1119?rik=mtO2GWCUcEmvhw&riu=http%3a%2f%2fwww.cityonfire.com%2fwp-content%2fuploads%2f2011%2f04%2fdoa-dead-or-alive-movie-poster-2006-1020401768.jpg&ehk=7512oyHLFtnmRFTypMLVVeIKN%2b%2f%2fzZa3dQ1CFstc3xU%3d&risl=&pid=ImgRaw&r=0",
-      "rating": "10",
+      "rating": 10,
       "description": "The world's best fighters are invited to DOA, an invitational martial arts contest. There, four female rival fighters will have to work together to uncover the secret that the organizer of the tournament is trying to hide.",
       "id": "nitt715wm1dkyu9i"
+    },
+    {
+      "title": "Honey",
+      "genre": "Romance, musical, drama",
+      "director": " Bille Woodruff",
+      "year": "2003",
+      "imageUrl": "https://cps-static.rovicorp.com/2/Open/Sony_Pictures_Television_369/Program/4038988/_derived_jpg_q90_584x800_m0/Honey-PosterArt_43.jpg",
+      "rating": 10,
+      "description": "Honey Daniels is a 22-year-old, sexy, tough-minded, part-black, part-Latina hip-hop dancer in New York's East Harlem who dreams of making it big as a music video choreographer. She teaches hip-hop dancing at a local youth center and encourages the local kids to attend to keep them off the streets and out of trouble. When luck shines on Honey in the form of a famous music video director, named Michael, who casts her in one music video, she's encouraged to make the transition from dancer to choreographer. But Honey's sudden success comes with a price when Michael refuses to take \"no\" for an answer to his sexual advances and then tries to sabotage her career by blackballing her out of the business.—matt-282",
+      "id": "nitt7et4m1ey845m"
     }
   ]
 }
